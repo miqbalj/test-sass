@@ -1,0 +1,96 @@
+h2 {
+  text-align: center;
+}
+
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+nav li {
+  display: inline-block;
+}
+
+nav a {
+  display: block;
+  padding: 6px 12px;
+  text-decoration: none;
+}
+
+nav .btn-sign {
+  background-color: #FFFFFF;
+  color: black;
+  border: 3px solid white;
+  border-radius: 5px;
+  margin-right: 5px;
+}
+
+nav .btn-sign:hover {
+  background-color: black;
+  color: #FFFFFF;
+}
+
+nav .btn-chart {
+  background-color: #FFFFFF;
+  color: black;
+  border: 3px solid white;
+  border-radius: 5px;
+  margin-right: 5px;
+}
+
+nav .btn-chart:hover {
+  background-color: black;
+  color: #FFFFFF;
+}
+
+.btn-explore-buy {
+  text-align: center;
+}
+
+.btn-explore {
+  background-color: white;
+  color: black;
+  border: 2px solid black;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.btn-explore:hover {
+  background-color: black;
+  color: white;
+}
+
+.btn-buy {
+  background-color: white;
+  color: black;
+  border: 2px solid black;
+  border-radius: 5px;
+  padding: 10px;
+  margin-right: auto;
+}
+
+.btn-buy:hover {
+  background-color: black;
+  color: white;
+}
+
+.img-prod {
+  width: 480px;
+  height: 480px;
+  margin: 0 auto;
+}
+
+.men-air {
+  text-align: center;
+}
+
+p {
+  color: #7d7d7d;
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+/*# sourceMappingURL=style.css.map */

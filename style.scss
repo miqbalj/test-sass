@@ -1,0 +1,111 @@
+$font-stack: Helvetica,
+sans-serif;
+$primary-color: #7d7d7d;
+$primary-btn-color : #6A0DAD;
+$primary-btn :#FF9E53;
+$secondary-btn-color :#8e02eb;
+$secondary-btn: #eb8202;
+
+h2 {
+    text-align: center;
+}
+
+// nav
+nav {
+    ul {
+        margin: 0;
+        padding: 0;
+        list-style: none;
+    }
+
+    li {
+        display: inline-block;
+    }
+
+    a {
+        display: block;
+        padding: 6px 12px;
+        text-decoration: none;
+    }
+
+    .btn-sign {
+        background-color: #FFFFFF;
+        color: black;
+        border: 3px solid white;
+        border-radius: 5px;
+        margin-right: 5px;
+
+        &:hover {
+            background-color: black;
+            color: #FFFFFF;
+        }
+    }
+
+    .btn-chart {
+        background-color: #FFFFFF;
+        color: black;
+        border: 3px solid white;
+        border-radius: 5px;
+        margin-right: 5px;
+
+        &:hover {
+            background-color: black;
+            color: #FFFFFF;
+        }
+    }
+}
+
+// button
+
+.btn-explore-buy {
+    text-align: center;
+}
+
+.btn-explore {
+    background-color: white;
+    color: black;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 10px;
+
+    &:hover {
+        background-color: black;
+        color: white;
+    }
+}
+
+.btn-buy {
+    background-color: white;
+    color: black;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    margin-right: auto;
+
+    &:hover {
+        background-color: black;
+        color: white;
+    }
+}
+
+// img
+.img-prod {
+    width: 480px;
+    height: 480px;
+    margin: 0 auto;
+}
+
+// paragraph
+.men-air {
+    text-align: center;
+}
+
+// paragraph
+p {
+    color: $primary-color;
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
